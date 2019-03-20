@@ -1,0 +1,44 @@
+/*
+Theme Name:zBoom Music 
+Theme URI:http:www.faridbd.com
+Author Name:Farid
+Author URI:http:www.faridbd.com
+Version:1.0;
+Description:Simple Music wordpress Theme.
+Tag:Music,song,simple theme
+Textdomain:zboom;
+
+
+
+*/
+.comment-body .comment-author img{
+
+	width:30px;
+	height: 30px;
+
+}
+
+/*.right-sidebar ul{
+	background:#1E1E1E;
+	margin-left: 0px;
+	padding-left: 20px; */
+
+
+
+
+
+}
+
+.textwidget p{
+	float:right;
+	width:200px;
+	
+}
+
+.one_half{
+	width: 50%;
+	float: left;
+	overflow: hidden;
+
+
+}

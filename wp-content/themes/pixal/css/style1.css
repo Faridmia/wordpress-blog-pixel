@@ -1,0 +1,47 @@
+#another{
+
+	width:1170px;
+	margin:0 auto;
+
+
+}
+
+img{
+	width:100%;
+}
+
+.logo{
+
+
+	width:20%;
+	float:left;
+}
+
+.menu-item{
+
+	width:75%;
+}
+
+.menu-item ul{
+
+	float: right;
+	list-style: none;
+}
+
+
+.menu-area{
+	overflow: hidden;
+}
+
+.menu-area ul li{
+
+	display: inline-block;
+}
+
+.menu-area ul li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 10px;
+    text-transform: uppercase;
+    color: #000;
+}

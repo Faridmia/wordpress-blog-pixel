@@ -1,0 +1,33 @@
+
+
+.navbar-expand-lg .navbar-collapse {
+    margin-top: 25px;
+    
+}
+.galleryimg{
+
+}
+
+.galleryimg ul{
+	list-style: none;
+	width: 100%;
+	margin-left: 0px;
+
+
+
+}
+.bananoclass{
+	width:25%;
+	float:left;
+}
+.newupdate{
+	width: 100%;
+}
+
+
+.new-nav{
+          
+          background-color:<?php the_field('navigation_background_color','options');?>
+          width:100%;
+      }
+
